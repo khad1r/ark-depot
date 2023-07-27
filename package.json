@@ -1,0 +1,33 @@
+{
+  "name": "arknigts-depot",
+  "version": "0.0.1",
+  "description": "Arknights Image Recognition using @arkntools/depot-recognition for gamepress compatibilty and penguin.stats.io",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "Arknights;",
+    "depot",
+    "recognition",
+    "arkntools"
+  ],
+  "author": "khad1r@github.com",
+  "license": "MIT",
+  "dependencies": {
+    "@arkntools/depot-recognition": "^1.8.1",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "express": "^4.18.2",
+    "path-browserify": "^1.0.1",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}

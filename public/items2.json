@@ -1,0 +1,432 @@
+{
+  "4001": {
+    "itemId": "4001",
+    "orderId": "14001",
+    "itemName": "LMD"
+  },
+  "4006": {
+    "itemId": "4006",
+    "orderId": "14006",
+    "itemName": "Purchase Certificate"
+  },
+  "2001": {
+    "itemId": "2001",
+    "orderId": "22001",
+    "itemName": "Drill Battle Record"
+  },
+  "2002": {
+    "itemId": "2002",
+    "orderId": "22002",
+    "itemName": "Frontline Battle Record"
+  },
+  "2003": {
+    "itemId": "2003",
+    "orderId": "22003",
+    "itemName": "Tactical Battle Record"
+  },
+  "2004": {
+    "itemId": "2004",
+    "orderId": "22004",
+    "itemName": "Strategic Battle Record"
+  },
+  "3301": {
+    "itemId": "3301",
+    "orderId": "23301",
+    "itemName": "Skill Summary - 1"
+  },
+  "3302": {
+    "itemId": "3302",
+    "orderId": "23302",
+    "itemName": "Skill Summary - 2"
+  },
+  "3303": {
+    "itemId": "3303",
+    "orderId": "23303",
+    "itemName": "Skill Summary - 3"
+  },
+  "mod_unlock_token": {
+    "itemId": "mod_unlock_token",
+    "orderId": "25011",
+    "itemName": "Module Data Block"
+  },
+  "mod_update_token_1": {
+    "itemId": "mod_update_token_1",
+    "orderId": "25012",
+    "itemName": "Data Supplement Stick"
+  },
+  "mod_update_token_2": {
+    "itemId": "mod_update_token_2",
+    "orderId": "25013",
+    "itemName": "Data Supplement Instrument"
+  },
+  "30011": {
+    "itemId": "30011",
+    "orderId": "30011",
+    "itemName": "Orirock"
+  },
+  "30012": {
+    "itemId": "30012",
+    "orderId": "30012",
+    "itemName": "Orirock Cube"
+  },
+  "30013": {
+    "itemId": "30013",
+    "orderId": "30013",
+    "itemName": "Orirock Cluster"
+  },
+  "30014": {
+    "itemId": "30014",
+    "orderId": "30014",
+    "itemName": "Orirock Concentration"
+  },
+  "30021": {
+    "itemId": "30021",
+    "orderId": "30021",
+    "itemName": "Sugar Substitute"
+  },
+  "30022": {
+    "itemId": "30022",
+    "orderId": "30022",
+    "itemName": "Sugar"
+  },
+  "30023": {
+    "itemId": "30023",
+    "orderId": "30023",
+    "itemName": "Sugar Pack"
+  },
+  "30024": {
+    "itemId": "30024",
+    "orderId": "30024",
+    "itemName": "Sugar Lump"
+  },
+  "30031": {
+    "itemId": "30031",
+    "orderId": "30031",
+    "itemName": "Ester"
+  },
+  "30032": {
+    "itemId": "30032",
+    "orderId": "30032",
+    "itemName": "Polyester"
+  },
+  "30033": {
+    "itemId": "30033",
+    "orderId": "30033",
+    "itemName": "Polyester Pack"
+  },
+  "30034": {
+    "itemId": "30034",
+    "orderId": "30034",
+    "itemName": "Polyester Lump"
+  },
+  "30041": {
+    "itemId": "30041",
+    "orderId": "30041",
+    "itemName": "Oriron Shard"
+  },
+  "30042": {
+    "itemId": "30042",
+    "orderId": "30042",
+    "itemName": "Oriron"
+  },
+  "30043": {
+    "itemId": "30043",
+    "orderId": "30043",
+    "itemName": "Oriron Cluster"
+  },
+  "30044": {
+    "itemId": "30044",
+    "orderId": "30044",
+    "itemName": "Oriron Block"
+  },
+  "30051": {
+    "itemId": "30051",
+    "orderId": "30051",
+    "itemName": "Diketon"
+  },
+  "30052": {
+    "itemId": "30052",
+    "orderId": "30052",
+    "itemName": "Polyketon"
+  },
+  "30053": {
+    "itemId": "30053",
+    "orderId": "30053",
+    "itemName": "Aketon"
+  },
+  "30054": {
+    "itemId": "30054",
+    "orderId": "30054",
+    "itemName": "Keton Colloid"
+  },
+  "30061": {
+    "itemId": "30061",
+    "orderId": "30061",
+    "itemName": "Damaged Device"
+  },
+  "30062": {
+    "itemId": "30062",
+    "orderId": "30062",
+    "itemName": "Device"
+  },
+  "30063": {
+    "itemId": "30063",
+    "orderId": "30063",
+    "itemName": "Integrated Device"
+  },
+  "30064": {
+    "itemId": "30064",
+    "orderId": "30064",
+    "itemName": "Optimized Device"
+  },
+  "30073": {
+    "itemId": "30073",
+    "orderId": "30073",
+    "itemName": "Loxic Kohl"
+  },
+  "30074": {
+    "itemId": "30074",
+    "orderId": "30074",
+    "itemName": "White Horse Kohl"
+  },
+  "30083": {
+    "itemId": "30083",
+    "orderId": "30083",
+    "itemName": "Manganese Ore"
+  },
+  "30084": {
+    "itemId": "30084",
+    "orderId": "30084",
+    "itemName": "Manganese Trihydrate"
+  },
+  "30093": {
+    "itemId": "30093",
+    "orderId": "30093",
+    "itemName": "Grindstone"
+  },
+  "30094": {
+    "itemId": "30094",
+    "orderId": "30094",
+    "itemName": "Grindstone Pentahydrate"
+  },
+  "30103": {
+    "itemId": "30103",
+    "orderId": "30103",
+    "itemName": "RMA70-12"
+  },
+  "30104": {
+    "itemId": "30104",
+    "orderId": "30104",
+    "itemName": "RMA70-24"
+  },
+  "30115": {
+    "itemId": "30115",
+    "orderId": "30115",
+    "itemName": "Polymerization Preparation"
+  },
+  "30125": {
+    "itemId": "30125",
+    "orderId": "30125",
+    "itemName": "Bipolar Nanoflake"
+  },
+  "30135": {
+    "itemId": "30135",
+    "orderId": "30135",
+    "itemName": "D32 Steel"
+  },
+  "30145": {
+    "itemId": "30145",
+    "orderId": "30145",
+    "itemName": "Crystalline Electronic Unit"
+  },
+  "30155": {
+    "itemId": "30155",
+    "orderId": "30155",
+    "itemName": "Nucleic Crystal Sinter"
+  },
+  "31013": {
+    "itemId": "31013",
+    "orderId": "31013",
+    "itemName": "Coagulating Gel"
+  },
+  "31014": {
+    "itemId": "31014",
+    "orderId": "31014",
+    "itemName": "Polymerized Gel"
+  },
+  "31023": {
+    "itemId": "31023",
+    "orderId": "31023",
+    "itemName": "Incandescent Alloy"
+  },
+  "31024": {
+    "itemId": "31024",
+    "orderId": "31024",
+    "itemName": "Incandescent Alloy Block"
+  },
+  "31033": {
+    "itemId": "31033",
+    "orderId": "31033",
+    "itemName": "Crystalline Component"
+  },
+  "31034": {
+    "itemId": "31034",
+    "orderId": "31034",
+    "itemName": "Crystalline Circuit"
+  },
+  "31043": {
+    "itemId": "31043",
+    "orderId": "31043",
+    "itemName": "Semi-Synthetic Solvent"
+  },
+  "31044": {
+    "itemId": "31044",
+    "orderId": "31044",
+    "itemName": "Refined Solvent"
+  },
+  "31053": {
+    "itemId": "31053",
+    "orderId": "31053",
+    "itemName": "Compound Cutting Fluid"
+  },
+  "31054": {
+    "itemId": "31054",
+    "orderId": "31054",
+    "itemName": "Cutting Fluid Solution"
+  },
+  "31063": {
+    "itemId": "31063",
+    "orderId": "31063",
+    "itemName": "Transmuted Salt"
+  },
+  "31064": {
+    "itemId": "31064",
+    "orderId": "31064",
+    "itemName": "Transmuted Salt Agglomerate"
+  },
+  "32001": {
+    "itemId": "32001",
+    "orderId": "32001",
+    "itemName": "Chip Catalyst"
+  },
+  "3211": {
+    "itemId": "3211",
+    "orderId": "32110",
+    "itemName": "Vanguard Chip"
+  },
+  "3212": {
+    "itemId": "3212",
+    "orderId": "32120",
+    "itemName": "Vanguard Chip Pack"
+  },
+  "3213": {
+    "itemId": "3213",
+    "orderId": "32130",
+    "itemName": "Vanguard Dualchip"
+  },
+  "3221": {
+    "itemId": "3221",
+    "orderId": "32210",
+    "itemName": "Guard Chip"
+  },
+  "3222": {
+    "itemId": "3222",
+    "orderId": "32220",
+    "itemName": "Guard Chip Pack"
+  },
+  "3223": {
+    "itemId": "3223",
+    "orderId": "32230",
+    "itemName": "Guard Dualchip"
+  },
+  "3231": {
+    "itemId": "3231",
+    "orderId": "32310",
+    "itemName": "Defender Chip"
+  },
+  "3232": {
+    "itemId": "3232",
+    "orderId": "32320",
+    "itemName": "Defender Chip Pack"
+  },
+  "3233": {
+    "itemId": "3233",
+    "orderId": "32330",
+    "itemName": "Defender Dualchip"
+  },
+  "3241": {
+    "itemId": "3241",
+    "orderId": "32410",
+    "itemName": "Sniper Chip"
+  },
+  "3242": {
+    "itemId": "3242",
+    "orderId": "32420",
+    "itemName": "Sniper Chip Pack"
+  },
+  "3243": {
+    "itemId": "3243",
+    "orderId": "32430",
+    "itemName": "Sniper Dualchip"
+  },
+  "3251": {
+    "itemId": "3251",
+    "orderId": "32510",
+    "itemName": "Caster Chip"
+  },
+  "3252": {
+    "itemId": "3252",
+    "orderId": "32520",
+    "itemName": "Caster Chip Pack"
+  },
+  "3253": {
+    "itemId": "3253",
+    "orderId": "32530",
+    "itemName": "Caster Dualchip"
+  },
+  "3261": {
+    "itemId": "3261",
+    "orderId": "32610",
+    "itemName": "Medic Chip"
+  },
+  "3262": {
+    "itemId": "3262",
+    "orderId": "32620",
+    "itemName": "Medic Chip Pack"
+  },
+  "3263": {
+    "itemId": "3263",
+    "orderId": "32630",
+    "itemName": "Medic Dualchip"
+  },
+  "3271": {
+    "itemId": "3271",
+    "orderId": "32710",
+    "itemName": "Supporter Chip"
+  },
+  "3272": {
+    "itemId": "3272",
+    "orderId": "32720",
+    "itemName": "Supporter Chip Pack"
+  },
+  "3273": {
+    "itemId": "3273",
+    "orderId": "32730",
+    "itemName": "Supporter Dualchip"
+  },
+  "3281": {
+    "itemId": "3281",
+    "orderId": "32810",
+    "itemName": "Specialist Chip"
+  },
+  "3282": {
+    "itemId": "3282",
+    "orderId": "32820",
+    "itemName": "Specialist Chip Pack"
+  },
+  "3283": {
+    "itemId": "3283",
+    "orderId": "32830",
+    "itemName": "Specialist Dualchip"
+  }
+}

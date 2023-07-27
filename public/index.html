@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print Color Coverage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="loading">Loading&#8230;</div>
+    <div class="upload-container">
+        <div class="drag-area">
+            <span class="drag-area-header">Drag & Drop to Upload Files</span>
+            <span>OR</span>
+            <label for="file" class="file-picker">Browse File</label>
+            <input type="file" multiple="multiple" accept="image/jpeg, image/png, image/jpg" id="file" hidden>
+        </div>
+    </div>
+
+    <div class="app">
+        <select name="export" id="export-select">
+            <option disabled selected>Select Option</option>
+            <option value="0">Penguin Stat.io</option>
+            <option value="1">Gamepress</option>
+        </select>
+        <div id="export-container">
+            <div contenteditable="true" class="editable" id="export-text">
+            </div>
+            <span id="export-copy" title="Copy">📄</span>
+        </div>
+
+    </div>
+    <script src="bundle.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
